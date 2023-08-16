@@ -1,3 +1,4 @@
+![Deployment 1 Diagram](https://github.com/DomIvey/Deployment-1-_-8.15.23/assets/140740841/8a055c80-e57a-466f-91fa-de741797f488)
 DEPLOYMENT 1
 
 WHAT WENT WRONG:
